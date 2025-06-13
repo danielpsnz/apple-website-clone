@@ -1,12 +1,57 @@
-# React + Vite
+# 🖥️ Apple Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive Apple website clone built with **React**, **Vite**, **Tailwind CSS**, and **GSAP**. This project is a front-end development showcase, replicating the smooth animations and minimalist design aesthetic of Apple's official site.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Lightning-fast build with [Vite](https://vitejs.dev/)
+- ⚛️ Component-based architecture with React
+- 🎨 Utility-first styling using Tailwind CSS
+- 🎞️ Smooth animations with [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
+- 📱 Fully responsive layout for all screen sizes
+- ✨ Clean, modern UI inspired by Apple’s web design
 
-## Expanding the ESLint configuration
+## 📸 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> 🔗 [Live Demo](#) — *(https://danielpsnz.github.io/apple-website-clone/)*  
+<img width="1461" alt="Screenshot 2025-06-13 at 19 53 17" src="https://github.com/user-attachments/assets/0b646a6a-ba43-4db8-b0ad-457b569ffe08" />
+<img width="1425" alt="Screenshot 2025-06-13 at 19 54 07" src="https://github.com/user-attachments/assets/e7600696-d50c-4ab2-b79f-66566e678127" />
+
+
+## 🛠️ Built With
+
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GSAP](https://greensock.com/gsap/)
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/danielpsnz/apple-website-clone.git
+cd apple-website-clone
+```
+
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Run the development server:**
+
+```bash
+npm run server
+```
+
+## 🖼️ Acknowledgments
+- Inspired by Apple.com
+- GSAP for animation power
+- Tailwind UI and community resources
+
+## 📄 License
+This project is licensed under the MIT License.
+Feel free to fork, clone, and build upon it for learning or showcasing.
+
